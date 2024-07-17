@@ -91,3 +91,4 @@ The backend system for managing the chess tournament includes various endpoints 
 
 - `GET /api/tournaments/<tournament_id>/leaderboard/`: Get leaderboard for a tournament
 
+![this_is_ine](https://media3.giphy.com/media/QMHoU66sBXqqLqYvGO/giphy.gif)
